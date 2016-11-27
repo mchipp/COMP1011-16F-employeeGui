@@ -5,8 +5,11 @@ import javax.swing.*;
 import java.awt.event.*;
 
 /**
- *
- * @author Mark Chipp 200180985 <mark.chipp@mygeorgian.ca, mark.chipp@live.ca>
+ * Program: Assignment 2, employeesGui. GUI will handle adding employees and products
+ *          as well as searching for existing employees and/or products. Part one does not
+ *          include functionality.
+ * Author:  Mark Chipp 200180985 <mark.chipp@mygeorgian.ca, mark.chipp@live.ca>
+ * Edited:  27-Nov-2016
  */
 public class EmployeesGui extends JFrame
 {
